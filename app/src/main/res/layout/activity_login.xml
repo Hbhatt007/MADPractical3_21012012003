@@ -23,7 +23,7 @@
 
         <ImageView
             android:layout_width="match_parent"
-            android:layout_height="180sp"
+            android:layout_height="180dp"
             android:src="@drawable/guni"
             android:contentDescription="Logo"
             />
@@ -38,11 +38,11 @@
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/mainbox"
                 android:layout_width="match_parent"
-                android:layout_height="290sp"
-                android:layout_marginHorizontal="23sp"
-                android:layout_marginVertical="15sp"
-                app:cardCornerRadius="20sp"
-                app:cardElevation="7sp"
+                android:layout_height="290dp"
+                android:layout_marginHorizontal="23dp"
+                android:layout_marginVertical="15dp"
+                app:cardCornerRadius="20dp"
+                app:cardElevation="7dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:strokeColor="@color/black"
                 tools:ignore="MissingConstraints"
@@ -51,10 +51,10 @@
                 <com.google.android.material.textfield.TextInputLayout
                     android:id="@+id/email"
                     style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
-                    android:layout_width="280sp"
-                    android:layout_height="80sp"
+                    android:layout_width="280dp"
+                    android:layout_height="80dp"
                     android:layout_gravity="center_horizontal"
-                    android:layout_marginVertical="30sp"
+                    android:layout_marginVertical="30dp"
                     app:boxStrokeColor="@color/black"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
@@ -76,10 +76,10 @@
                 <com.google.android.material.textfield.TextInputLayout
                     android:id="@+id/password"
                     style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
-                    android:layout_width="280sp"
+                    android:layout_width="280dp"
                     android:layout_height="80dp"
                     android:layout_gravity="center_horizontal"
-                    android:layout_marginVertical="120sp"
+                    android:layout_marginVertical="120dp"
                     app:boxStrokeColor="@color/black"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
@@ -108,34 +108,34 @@
                 android:text="Forgot Password?"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                android:layout_marginVertical="70sp"
-                android:layout_marginHorizontal="183sp"
+                android:layout_marginVertical="70dp"
+                android:layout_marginHorizontal="183dp"
                 android:textColor="@color/black"
                 android:autoLink="all"
-                android:textSize="18sp"
-                android:elevation="7sp"
+                android:textSize="18dp"
+                android:elevation="7dp"
                 tools:ignore="MissingConstraints"
                 >
             </TextView>
 
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="wrap_content"
-                android:layout_height="60sp"
-                android:elevation="7sp"
-                android:layout_marginHorizontal="128sp"
+                android:layout_height="60dp"
+                android:elevation="7dp"
+                android:layout_marginHorizontal="128dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                android:layout_marginBottom="-15sp"
+                android:layout_marginBottom="-15dp"
                 >
 
                 <Button
                     android:id="@+id/bt"
-                    android:layout_width="150sp"
-                    android:layout_height="50sp"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"
                     android:backgroundTint="#6200ee"
                     android:text="Login"
-                    android:textSize="18sp"
-                    app:cornerRadius="40sp"
+                    android:textSize="18dp"
+                    app:cornerRadius="40dp"
                     tools:ignore="MissingConstraints,NotSibling"
                     />
 
@@ -158,16 +158,16 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:layout_behavior="@string/appbar_scrolling_view_behavior"
-            android:layout_marginTop="70sp"
+            android:layout_marginTop="70dp"
             >
 
             <TextView
                 android:id="@+id/t1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="70sp"
+                android:layout_marginLeft="70dp"
                 android:text="Don't have a account?"
-                android:textSize="17sp"
+                android:textSize="17dp"
                 app:layout_constraintLeft_toLeftOf="parent"
                 tools:ignore="MissingConstraints" />
 
@@ -176,13 +176,13 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Sign Up"
-                android:textSize="17sp"
+                android:textSize="17dp"
                 android:textColor="#DA3D90"
                 android:textStyle="bold"
                 android:textAllCaps="true"
                 tools:ignore="MissingConstraints"
                 app:layout_constraintLeft_toLeftOf="@+id/t1"
-                android:layout_marginLeft="190sp"
+                android:layout_marginLeft="190dp"
                 >
             </TextView>
 

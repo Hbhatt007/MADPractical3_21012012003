@@ -4,10 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Harshil Bhatt/AndroidStudioProjects/MADPractical3_21012012003/app/src/main/res/drawable/ic_baseline_app_registration_24.xml" value="0.1135" />
-        <entry key="..\:/Users/Harshil Bhatt/AndroidStudioProjects/MADPractical3_21012012003/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Harshil Bhatt/AndroidStudioProjects/MADPractical3_21012012003/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.111" />
+        <entry key="..\:/Users/Harshil Bhatt/AndroidStudioProjects/MADPractical3_21012012003/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.111" />
+        <entry key="..\:/Users/Harshil Bhatt/AndroidStudioProjects/MADPractical3_21012012003/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.111" />
+        <entry key="..\:/Users/Harshil Bhatt/AndroidStudioProjects/MADPractical3_21012012003/app/src/main/res/drawable/ic_baseline_phone_android_24.xml" value="0.111" />
+        <entry key="..\:/Users/Harshil Bhatt/AndroidStudioProjects/MADPractical3_21012012003/app/src/main/res/drawable/ic_baseline_vpn_key_24.xml" value="0.111" />
+        <entry key="..\:/Users/Harshil Bhatt/AndroidStudioProjects/MADPractical3_21012012003/app/src/main/res/layout/activity_login.xml" value="0.22" />
         <entry key="..\:/Users/Harshil Bhatt/AndroidStudioProjects/MADPractical3_21012012003/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/Harshil Bhatt/AndroidStudioProjects/MADPractical3_21012012003/app/src/main/res/layout/activity_registration.xml" value="0.2" />
-        <entry key="..\:/Users/Harshil Bhatt/AndroidStudioProjects/MADPractical3_21012012003/app/src/main/res/menu/navigation_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Harshil Bhatt/AndroidStudioProjects/MADPractical3_21012012003/app/src/main/res/layout/activity_registration.xml" value="0.22" />
+        <entry key="..\:/Users/Harshil Bhatt/AndroidStudioProjects/MADPractical3_21012012003/app/src/main/res/menu/navigation_menu.xml" value="0.22" />
       </map>
     </option>
   </component>
